@@ -1,0 +1,7 @@
+{
+   "require": {
+      "guzzlehttp/guzzle": "^7.0",
+      "scotteh/php-dom-wrapper": "^1.2",
+      "chrome-php/chrome": "^0.8.1"
+   }
+}
